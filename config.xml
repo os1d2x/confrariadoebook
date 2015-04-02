@@ -21,4 +21,5 @@
 	<gap:platform name="android" />
 	<gap:platform name="winphone" />
     
+	<access origin="*"/>
 </widget>
