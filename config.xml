@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "br.com.d2x.clientes.confrariadoebook"
+        versionCode = "10" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Confraria do E-book</name>
+
+    <description>
+        Este aplicativo permite que leitores da Confraria do E-book possam ler seus livros em dispositivos móveis como tablets e smarpthones.
+        
+    </description>
+
+    <author href="http://www.d2x.com.br" email="claudino@d2x.com.br">
+        André Claudino @ D²x Ideias
+    </author>
+	
+    <gap:platform name="ios" />
+	<gap:platform name="android" />
+	<gap:platform name="winphone" />
+    
+</widget>
