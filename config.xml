@@ -16,7 +16,7 @@
     <author href="http://www.d2x.com.br" email="claudino@d2x.com.br">
         André Claudino @ D²x Ideias
     </author>
-		
+    
 	<icon src="res/icone.png" />	
     
 	<access origin="*"/>
